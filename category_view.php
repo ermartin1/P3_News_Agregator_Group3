@@ -109,4 +109,6 @@ if($foundRecord)
 }
 
 get_footer(); #defaults to theme footer or footer_inc.php
+
+
 ?>
